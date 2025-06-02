@@ -2,6 +2,7 @@
 
 ### 1. Check Recent Authentication Logs
 ![image](https://github.com/user-attachments/assets/a595e08c-4c79-44fb-ad3f-2a3b927f6801)
+
 Shows the last 20 authentication events (logins, sudo attempts, etc).
 
 ### 2. Try a Failing Login and Observe the Log
